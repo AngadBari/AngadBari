@@ -1,10 +1,39 @@
-- 👋 Hi, I’m @AngadBari
-- 👀 I’m interested in Web- Development 
-- 🌱 I’m currently learning in BscIt
-- 💞️ I’m looking to collaborate on ...Soch te hai😅
-- 📫 How to reach me Social Media link in Bio😊
+# 👋 Hi, I'm Angad Bari
 
-<!---
-AngadBari/AngadBari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 Passionate Web Developer in the Making  
+🌱 Currently learning at BSCLT  
+🌍 Based in Mumbai, India
+
+---
+
+## 💡 About Me
+
+- 🔭 I'm actively exploring front-end and full-stack web development.
+- 🤝 Open to collaboration on exciting and meaningful tech projects.
+- 🧠 I love learning by building real-world applications.
+- 🗣️ Fluent in code and creativity – also good at bringing ideas to life.
+- 🧩 Motto: "Soch te hai 😊"
+
+---
+
+## 🛠️ Tech Stack
+
+- 🌐 HTML, CSS, JavaScript  
+- ⚙️ Tailwind CSS, 
+- 🛠️ Git & GitHub  
+- 📱 Responsive Web Design  
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: [angadbari2@gmail.com](mailto:angadbari2@gmail.com)  
+- 🔗 [Instagram](https://www.instagram.com/angad_bari_01)  
+- 🐦 [Twitter/X](https://x.com/Angad5631042821)
+
+---
+
+## ⚡ Fun Fact
+
+I believe in building first, learning forever.  
+Let's turn ideas into impactful products! 🚀
