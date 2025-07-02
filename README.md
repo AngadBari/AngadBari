@@ -1,39 +1,22 @@
-# 👋 Hi, I'm Angad Bari
+<h2 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=435&lines=Hey+I'm+Angad+👋" alt="Typing SVG" />
+</h2>
 
-🎯 Passionate Web Developer in the Making  
-🌱 Currently learning at BSCIT
-🌍 Based in Mumbai, India
 
----
-
-## 💡 About Me
-
-- 🔭 I'm actively exploring front-end and full-stack web development.
-- 🤝 Open to collaboration on exciting and meaningful tech projects.
-- 🧠 I love learning by building real-world applications.
-- 🗣️ Fluent in code and creativity – also good at bringing ideas to life.
-- 🧩 Motto: "Soch te hai 😊"
+![Profile Views](https://komarev.com/ghpvc/?username=AngadBari&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 About
 
-- 🌐 HTML, CSS, JavaScript  
-- ⚙️ Tailwind CSS, 
-- 🛠️ Git & GitHub  
-- 📱 Responsive Web Design  
+Just a dev trying to make sense of the chaos, break the internet (on purpose), build stuff that doesn't crash (mostly), and occasionally pretend I know what I'm doing.
 
 ---
 
-## 📫 Let's Connect
+## 🚀 My Progress
 
-- 📧 Email: [angadbari2@gmail.com](mailto:angadbari2@gmail.com)  
-- 🔗 [Instagram](https://www.instagram.com/angad_bari_01)  
-- 🐦 [Twitter/X](https://x.com/Angad5631042821)
+### Most Used Languages  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngadBari&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/AngadBari)
 
----
-
-## ⚡ Fun Fact
-
-I believe in building first, learning forever.  
-Let's turn ideas into impactful products! 🚀
+### Streak Graph  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AngadBari&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
