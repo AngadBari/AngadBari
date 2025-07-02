@@ -1,6 +1,4 @@
-<h2 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF00&width=435&lines=Hey+I'm+Angad+👋" alt="Typing SVG" />
-</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=11F74B&width=435&lines=I+am+Angad+Bari)](https://git.io/typing-svg)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AngadBari&label=Profile%20Views&color=0e75b6&style=flat)
@@ -9,8 +7,7 @@
 
 ## 🧠 About
 
-Just a dev trying to make sense of the chaos, break the internet (on purpose), build stuff that doesn't crash (mostly), and occasionally pretend I know what I'm doing.
-
+Building websites, diving into tech, and sharpening my skills. I enjoy crafting clean code, solving problems, and bringing ideas to life. Constantly learning, experimenting, and pushing my limits to improve every day.
 ---
 
 ## 🚀 My Progress
