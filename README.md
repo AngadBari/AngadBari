@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Angad Bari
 
 🎯 Passionate Web Developer in the Making  
-🌱 Currently learning at BSCLT  
+🌱 Currently learning at BSCIT
 🌍 Based in Mumbai, India
 
 ---
