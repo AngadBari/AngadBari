@@ -15,5 +15,12 @@ Building websites, diving into tech, and sharpening my skills. I enjoy crafting 
 ### Most Used Languages  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngadBari&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/AngadBari)
 
+---
+
+[![roadmap.sh](https://roadmap.sh/card/tall/68882ca2b349ac4092c47660?variant=dark)](https://roadmap.sh)
+
+---
 ### Streak Graph  
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AngadBari&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+---
